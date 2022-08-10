@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Digite o primeiro valor");
         valor1 = grava.nextDouble();
         
-        System.out.println("Digite o primeiro valor");
+        System.out.println("Digite o segundo valor");
         valor2 = grava.nextDouble();
         
         resultado = valor1 + valor2;
